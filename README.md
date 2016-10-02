@@ -1,2 +1,2 @@
-# lp.tripcommander.us
+# Trip Commander
 Trip Commander Landing Page
